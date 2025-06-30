@@ -93,7 +93,7 @@ Ensure you have **Python 3.7+** installed on your system.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Avocado-Ripeness-Prediction.git
+   git clone https://github.com/Elaf24/Avocado-Ripeness-Prediction.git
    cd Avocado-Ripeness-Prediction
    ```
 
