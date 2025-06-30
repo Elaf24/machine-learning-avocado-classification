@@ -215,8 +215,8 @@ This project is licensed under the **MIT License** - see the [LICENSE.md](LICENS
 
 ## 📞 Contact & Support
 
-- 📧 **Email**: alhadielaf2428@gmail.com.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/alhadi-elaf/)
+- 📧 **Email**: alhadielaf2428@gmail.com
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/alhadi-elaf/)
 
 
 **⭐ Don't forget to star this repository if you found it useful!**
