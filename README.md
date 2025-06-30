@@ -206,8 +206,8 @@ This project is licensed under the **MIT License** - see the [LICENSE.md](LICENS
 
 **Made with ❤️ for the ML community**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/Avocado-Ripeness-Prediction.svg?style=social&label=Star)](https://github.com/your-username/Avocado-Ripeness-Prediction)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/Avocado-Ripeness-Prediction.svg?style=social&label=Fork)](https://github.com/your-username/Avocado-Ripeness-Prediction/fork)
+[![GitHub stars](https://img.shields.io/github/stars/Elaf24/Avocado-Ripeness-Prediction.svg?style=social&label=Star)](https://github.com/your-username/Avocado-Ripeness-Prediction)
+[![GitHub forks](https://img.shields.io/github/forks/Elaf24/Avocado-Ripeness-Prediction.svg?style=social&label=Fork)](https://github.com/your-username/Avocado-Ripeness-Prediction/fork)
 
 </div>
 
